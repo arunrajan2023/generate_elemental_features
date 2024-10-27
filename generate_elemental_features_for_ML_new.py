@@ -79,7 +79,7 @@ for _features in features:
 #----------------------------------------------------------------------------------------------
 elemental_features = []
 
-rootdir = 'material-data'
+rootdir = 'materials'
 list2=[]
 inp1 = []
 #mx_name, output = np.loadtxt("file-ml", unpack=True)
